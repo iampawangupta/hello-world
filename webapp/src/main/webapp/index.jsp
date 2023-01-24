@@ -11,9 +11,9 @@
   <input type="text" id="lname" name="lname" value="Doe">
 </form>
 
-<p>Note that the form itself is not visible.</p>
+<p>Note that the <br>form itself is not visible.</p>
 
-<p>Also note that the default width of text input fields is 20 characters.</p>
+<p>Also note that the<br> default width of text input fields is 20 characters.</p>
 
 </body>
 </html>
